@@ -9,3 +9,5 @@ https://github.com/hitoriaoyama/Practical_work/blob/main/Frontend%20Projects/01-
 https://roadmap.sh/projects/basic-html-website
 https://github.com/hitoriaoyama/Practical_work/blob/main/Frontend%20Projects/02-basic-html-website/Index.html
 
+# pricing-comparison-table
+https://roadmap.sh/projects/pricing-comparison-table
