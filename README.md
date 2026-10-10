@@ -11,3 +11,5 @@ https://github.com/hitoriaoyama/Practical_work/blob/main/Frontend%20Projects/02-
 
 # pricing-comparison-table
 https://roadmap.sh/projects/pricing-comparison-table
+
+https://roadmap.sh/projects/blog-post-page
